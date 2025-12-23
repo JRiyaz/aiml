@@ -1,0 +1,6 @@
+1. What is machine learning 
+2. ML Engineering overview  
+3. Machine Learning pipeline 
+4. Types of Machine Learning
+
+let take one topic at a time
